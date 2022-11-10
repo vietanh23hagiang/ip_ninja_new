@@ -1,1 +1,1 @@
-NSOVIP1:0.tcp.ap.ngrok.io:15176:0:0
+NSOVIP:0.tcp.ap.ngrok.io:15176:0:0
