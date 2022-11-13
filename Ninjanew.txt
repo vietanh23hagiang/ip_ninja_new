@@ -1,1 +1,1 @@
-NSOVIP:0.tcp.ap.ngrok.io:10328:0:0
+NSO:0.tcp.ap.ngrok.io:10328:0:0
